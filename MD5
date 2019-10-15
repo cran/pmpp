@@ -1,6 +1,6 @@
-f2e2336ed8dcfa2e790ee2c6f9cf1d32 *DESCRIPTION
+da6bd7c0eb66d88aad15cb24a0150ffb *DESCRIPTION
 f8a5dbdb528bf60eba48a34a778da987 *NAMESPACE
-84feab9d7620e583e7fad080a082ce21 *NEWS.md
+92e9ecb610c9fb332e424355f139ab23 *NEWS.md
 df40e00d9526bfaf5a249aeaf1983dd3 *R/create_fframe.R
 ac1ffe51fb4861793a124c4daa8de663 *R/kde.R
 b04764876590f19fb210901df515bee6 *R/kde2D.R
@@ -12,7 +12,7 @@ b04764876590f19fb210901df515bee6 *R/kde2D.R
 6b3ed20e64739a1512781d3399c6d820 *R/pmpp_predict.R
 288d62a632645c17a1c094ecf4842514 *R/pmpp_summary.R
 b6cbf667860cef7c903c72280beba4fe *R/ssys_gmm.R
-04f1062a2297a21d47d7c5af8f8d1d50 *README.md
+31040698ffd655a42caae4a3241d0ec4 *README.md
 8dfdebbf8b17b2f37a02b64e804f0f93 *man/GMM_parametric.Rd
 371c5f466aec891f5e6568b46d125b0f *man/create_fframe.Rd
 b46115d06cf19e6a66d1849b8a0a0a0c *man/get_kernel.Rd
@@ -30,7 +30,7 @@ bb2b6b7d8a67cb69f7aaaf20efdffeb4 *man/pmpp_data.Rd
 4e4c47fd435ba276aea2a39ac80c5277 *man/predict.pmpp.Rd
 9001436eeef8407fe6a998ccd6102378 *man/ssys_gmm.Rd
 c6e18ac25f41a3cebc0310e0c3f6e6a6 *man/summary.pmpp.Rd
-92b5ed8c41c58fd4c85d8e798e21a952 *tests/testthat.R
+605e3e7dbb6c93224a5f62e70b81ff00 *tests/testthat.R
 3151505268672f9379ca58285852d165 *tests/testthat/test-framework.R
 4c121393070a0838872aaa0f89c764bd *tests/testthat/test-lintr.R
 dfb5ec87c6131c4bc6679becbb82b449 *tests/testthat/test-other_funcs.R

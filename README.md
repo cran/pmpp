@@ -1,4 +1,4 @@
-[![Travis-CI Build Status](https://travis-ci.org/veneficusnl/pmpp.svg?branch=master)](https://travis-ci.org/veneficusnl/pmpp)
+[![Travis-CI Build Status](https://travis-ci.org/MichalOleszak/pmpp.svg?branch=master)](https://travis-ci.org/MichalOleszak/pmpp)
 
 # What is the Posterior Mean Panel Predictor?
 
@@ -47,5 +47,5 @@ my_fframe <- create_fframe(EmplUK, 1983:1985)
 prediction <- predict(pmpp_model, my_fframe)
 
 # Compute prediction intervals
-intervals <- pmpp_predinterval(pmpp_model, my_fframe, bootReps = 20, confidence = 0.95)
+intervals <- pmpp_predinterval(pmpp_model, my_fframe, boot_reps = 20, confidence = 0.95)
 ```
